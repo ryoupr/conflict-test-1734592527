@@ -1,4 +1,4 @@
-Line 1 - Conflict Area (to be modified)
+Line 1 - Conflict Area (to be modified) - Main Change
 Line 2 - Normal Content (unchanged)
 Line 3 - Normal Content (unchanged)
-Line 4 - Conflict Area (to be modified)
+Line 4 - Conflict Area (to be modified) - Main Change
